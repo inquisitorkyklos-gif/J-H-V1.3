@@ -1,0 +1,34 @@
+[
+  {
+    "id": "kb_1",
+    "title": "Kubota SVL97-2 CTL Operator Manual",
+    "description": "Official manufacturer specifications and safe operation procedures.",
+    "industryTag": "Heavy Equipment",
+    "sourceType": "Manual",
+    "fullText": "Kubota Compact Track Loader SVL97-2 offers high-flow hydraulics. Always inspect fluid sight glass. Maintain tracks at 1 inch tension."
+  },
+  {
+    "id": "kb_2",
+    "title": "J&H Standard Operating Procedure (SOP-001)",
+    "description": "Company safety culture and tailgate briefing protocols.",
+    "industryTag": "Safety",
+    "sourceType": "SOP",
+    "fullText": "A 10-minute briefing must happen before any crew member unloads equipment from trailers. Check site overhead clearances."
+  },
+  {
+    "id": "kb_jh_field_safety_sop",
+    "title": "J&H Field Safety SOP",
+    "description": "Official field safety standard operating procedure covering PPE, equipment inspections, communication, emergency procedures, and environmental hazards.",
+    "industryTag": "Safety",
+    "sourceType": "SOP",
+    "fullText": "J&H LAND SERVICES – FIELD SAFETY STANDARD OPERATING PROCEDURE\n\nSECTION 1: PERSONAL PROTECTIVE EQUIPMENT (PPE)\n1.1 Hard hats are mandatory on every job site. No exceptions.\n1.2 Safety glasses must be worn when operating cutting, grinding, or mulching equipment.\n1.3 Face shields are required when using a chainsaw or stump grinder.\n1.4 Steel‑toed boots are mandatory. No sneakers or soft‑toed footwear allowed.\n1.5 High‑visibility vests must be worn when working within 50 feet of active roadways, driveways, or heavy machinery.\n1.6 Hearing protection (earplugs or earmuffs) is required when operating equipment exceeding 85 decibels.\n\nSECTION 2: EQUIPMENT PRE‑START INSPECTIONS\n2.1 Before starting any piece of equipment, the operator must walk around the machine and check for leaks, damage, or loose parts.\n2.2 Check engine oil, hydraulic fluid, and coolant levels daily.\n2.3 Inspect tracks or tires for cuts, wear, and proper tension.\n2.4 Test all lights, backup alarm, and horn before moving the machine.\n2.5 Ensure all safety guards, shields, and seat belts are in place and functional.\n2.6 Report any damage or malfunction immediately to the crew leader. Do not operate unsafe equipment.\n\nSECTION 3: COMMUNICATION ON SITE\n3.1 A daily tailgate safety briefing will be held before any work begins. All crew members must attend.\n3.2 Standard hand signals (stop, move forward, move backward, raise/lower attachment) will be reviewed at each briefing.\n3.3 When visibility is limited, a dedicated spotter must be assigned to guide the operator.\n3.4 Two‑way radios or hand signals must be used near active equipment. Verbal shouting is unreliable and discouraged.\n\nSECTION 4: EMERGENCY PROCEDURES\n4.1 First aid kits are located in the crew truck and on each piece of heavy equipment.\n4.2 Fire extinguishers are mounted on the skid steer, the crew truck, and near any fuel storage area.\n4.3 For serious injuries, call 911 immediately, then notify the crew leader and the company owner.\n4.4 All incidents, including near‑misses, must be reported and documented on the J&H Incident Report Form before leaving the site.\n4.5 Emergency meeting point: the crew truck or a safe, open area upwind from any hazard.\n\nSECTION 5: ENVIRONMENTAL HAZARDS\n5.1 Overhead power lines: identify and mark all lines before lifting, dumping, or moving equipment with raised attachments.\n5.2 Underground utilities: Call 811 at least 48 hours before any digging or trenching. Do not dig until utilities are marked.\n5.3 Lightning: At the first sight of lightning or sound of thunder, cease all operations and seek shelter inside a vehicle or building. Wait 30 minutes after the last lightning strike before resuming work.\n5.4 Steep slopes: Avoid operating equipment sideways on slopes. Use low gear and keep the heavy end uphill.\n5.5 Wet or soft ground: Test ground stability before entering an area with heavy equipment. Saturated soil can cause rollovers."
+  },
+  {
+    "id": "kb_jh_daily_inspection_checklist",
+    "title": "J&H Daily Equipment Inspection Checklist",
+    "description": "Daily walk‑around inspection checklist for skid steers and compact track loaders.",
+    "industryTag": "Safety",
+    "sourceType": "SOP",
+    "fullText": "J&H LAND SERVICES – DAILY EQUIPMENT INSPECTION CHECKLIST\n\nEQUIPMENT TYPE: Skid Steer / Compact Track Loader\nINSPECTION DATE: _______________\nOPERATOR NAME: _______________\n\nENGINE & FLUIDS\n[ ] Engine oil level checked and full\n[ ] Hydraulic fluid level checked and full\n[ ] Coolant level checked and full\n[ ] Fuel level sufficient for the day's work\n[ ] No visible fluid leaks under the machine\n\nTRACKS / TIRES\n[ ] Tracks inspected for cuts, tears, or excessive wear\n[ ] Track tension within manufacturer's specification (approx. 1 inch of sag)\n[ ] Tires (if applicable) inspected for cuts, bulges, and proper pressure\n\nLIGHTS & ALARMS\n[ ] Headlights and work lights functioning\n[ ] Backup alarm sounds when machine is in reverse\n[ ] Horn is working\n\nSAFETY GUARDS & ACCESSORIES\n[ ] All guards and shields in place and secure\n[ ] Seat belt present and functional\n[ ] ROPS (Roll‑Over Protective Structure) in good condition, no cracks\n[ ] Fire extinguisher present and charged\n\nATTACHMENTS\n[ ] Attachment pins and couplers secure\n[ ] Hydraulic hoses and fittings checked for leaks or damage\n[ ] Cutting edges, teeth, or mulching head inspected and sharp (if applicable)\n\nOPERATOR COMFORT & VISIBILITY\n[ ] Windows and mirrors clean\n[ ] Operator station free of debris and loose objects\n[ ] Controls move freely and return to neutral\n\nIF ANY DEFECT IS FOUND, TAG THE MACHINE \"OUT OF SERVICE\" AND REPORT TO THE CREW LEADER IMMEDIATELY."
+  }
+]

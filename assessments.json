@@ -1,0 +1,155 @@
+[
+  {
+    "id": "assess_mod_field_safety_1",
+    "title": "Personal Protective Equipment (PPE) Quiz",
+    "description": "Knowledge evaluation for module: Personal Protective Equipment",
+    "moduleIds": [
+      "mod_field_safety_1"
+    ],
+    "timeLimit": 15,
+    "passThreshold": 80,
+    "questions": [
+      {
+        "id": "q_ppe_1",
+        "type": "single_choice",
+        "questionText": "According to the J&H Field Safety SOP, when are hard hats mandatory on a job site?",
+        "options": [
+          "Always, on every job site without exceptions.",
+          "Only when heavy machinery is actively operating.",
+          "Only during forestry mulching operations.",
+          "Optional if wearing other head protection."
+        ]
+      },
+      {
+        "id": "q_ppe_2",
+        "type": "single_choice",
+        "questionText": "What type of protection is required when operating a chainsaw or stump grinder?",
+        "options": [
+          "Face shield.",
+          "Safety glasses only.",
+          "Regular sunglasses.",
+          "None, if working from a distance."
+        ]
+      },
+      {
+        "id": "q_ppe_3",
+        "type": "single_choice",
+        "questionText": "At what decibel level is hearing protection (earplugs or earmuffs) required when operating equipment?",
+        "options": [
+          "Exceeding 85 decibels.",
+          "Exceeding 100 decibels.",
+          "Exceeding 60 decibels.",
+          "Hearing protection is never mandatory."
+        ]
+      },
+      {
+        "id": "q_ppe_4",
+        "type": "true_false",
+        "questionText": "High-visibility vests are only required if working within 10 feet of active roadways.",
+        "options": [
+          "False (required within 50 feet of roadways, driveways, or heavy machinery)",
+          "True"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "assess_mod_field_safety_2",
+    "title": "Equipment Inspections & Communication Quiz",
+    "description": "Knowledge evaluation for module: Equipment Inspections & Communication",
+    "moduleIds": [
+      "mod_field_safety_2"
+    ],
+    "timeLimit": 15,
+    "passThreshold": 80,
+    "questions": [
+      {
+        "id": "q_ins_1",
+        "type": "single_choice",
+        "questionText": "What is the approximate track tension sag specified for J&H compact track loaders?",
+        "options": [
+          "Approx. 1 inch of sag.",
+          "Approx. 3 inches of sag.",
+          "Zero sag (completely tight).",
+          "Any amount of sag is acceptable."
+        ]
+      },
+      {
+        "id": "q_ins_2",
+        "type": "single_choice",
+        "questionText": "Before starting any piece of equipment, the operator must:",
+        "options": [
+          "Walk around the machine and check for leaks, damage, or loose parts.",
+          "Immediately start the engine to let it warm up.",
+          "Check only the fuel level.",
+          "Clean the windows."
+        ]
+      },
+      {
+        "id": "q_ins_3",
+        "type": "single_choice",
+        "questionText": "When visibility is limited on-site, what is the mandatory requirement?",
+        "options": [
+          "A dedicated spotter must be assigned to guide the operator.",
+          "Use backup alarms at all times.",
+          "Move at maximum speed to clear the area.",
+          "Shout loudly from the operator station."
+        ]
+      },
+      {
+        "id": "q_ins_4",
+        "type": "true_false",
+        "questionText": "If any equipment defect is found, you should operate the machine until the shift ends, then report it.",
+        "options": [
+          "False (tag out-of-service and report immediately)",
+          "True"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "assess_mod_field_safety_3",
+    "title": "Emergency Procedures & Hazards Quiz",
+    "description": "Knowledge evaluation for module: Emergency Procedures & Hazards",
+    "moduleIds": [
+      "mod_field_safety_3"
+    ],
+    "timeLimit": 15,
+    "passThreshold": 80,
+    "questions": [
+      {
+        "id": "q_haz_1",
+        "type": "single_choice",
+        "questionText": "At the first sight of lightning or sound of thunder, what action must be taken?",
+        "options": [
+          "Cease all operations and seek shelter inside a vehicle or building immediately.",
+          "Finish the current pass then seek shelter.",
+          "Stand under a tall tree for shelter.",
+          "Operate the heavy machine at lower speeds."
+        ]
+      },
+      {
+        "id": "q_haz_2",
+        "type": "single_choice",
+        "questionText": "How many hours before digging must you call 811 to mark underground utilities?",
+        "options": [
+          "At least 48 hours before any digging or trenching.",
+          "At least 12 hours before.",
+          "Just before starting the excavation.",
+          "24 hours before."
+        ]
+      },
+      {
+        "id": "q_haz_3",
+        "type": "single_choice",
+        "questionText": "What is the correct way to operate heavy equipment on steep slopes?",
+        "options": [
+          "Avoid operating sideways, use low gear, and keep the heavy end uphill.",
+          "Operate sideways with high gear to cross quickly.",
+          "Always keep the light end uphill.",
+          "Slopes do not require any special operating guidelines."
+        ]
+      }
+    ]
+  }
+]

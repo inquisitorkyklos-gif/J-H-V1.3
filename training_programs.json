@@ -1,0 +1,115 @@
+[
+  {
+    "id": "prog_jh_land_services",
+    "name": "J&H Land Services LLC – Comprehensive Operator Training",
+    "industryTag": "Heavy Equipment & Land Services",
+    "description": "Please use the AI Generator inside the Training Studio to build a personalized curriculum using our verified Knowledge Library manuals and SOPs.",
+    "version": "1.0.0",
+    "status": "Draft",
+    "competencies": [],
+    "modules": [],
+    "certificationRules": {
+      "quizzesThreshold": 80,
+      "practicalHours": 40,
+      "instructorSignOffRequired": true,
+      "details": "Pass all generated quizzes with ≥80% and receive instructor sign-off."
+    }
+  },
+  {
+    "id": "prog_jh_field_safety_essentials",
+    "name": "J&H Land Services – Field Safety Essentials",
+    "industryTag": "Safety & Operations",
+    "description": "Our Level 1 – Professional Standards course teaches correct, documented, industry-approved procedures. This comprehensive safety training covers personal protective equipment (PPE), rigorous daily equipment pre-start walk-around inspections, visual/radio site communication protocols, emergency hazard response, and environmental risk mitigation.",
+    "version": "1.0.0",
+    "status": "Active",
+    "competencies": [
+      {
+        "id": "comp_field_safety_1",
+        "name": "Level 1 Professional Safety Standards",
+        "description": "Crews demonstrate absolute competence in selecting PPE, executing standard pre-start inspections, using standard communication protocols, and applying OSHA and manufacturer hazard controls.",
+        "objectives": [
+          {
+            "id": "obj_fs_1",
+            "text": "Correctly don all 6 required elements of field PPE according to J&H policy.",
+            "knowledgeReq": "J&H Field Safety SOP Section 1 (PPE) and OSHA Part 1910 Subpart I guidelines."
+          },
+          {
+            "id": "obj_fs_2",
+            "text": "Perform a flawless 23-point daily pre-start safety walk-around check on skid steers or CTL machines.",
+            "knowledgeReq": "J&H Daily Equipment Inspection Checklist and manufacturer standard procedures."
+          },
+          {
+            "id": "obj_fs_3",
+            "text": "Safely locate utility lines, establish overhead clearances, and deploy standard site safety communications.",
+            "knowledgeReq": "J&H Field Safety SOP Section 3 (Communication) and Section 5 (Hazards)."
+          }
+        ]
+      }
+    ],
+    "modules": [
+      {
+        "id": "mod_field_safety_1",
+        "title": "Personal Protective Equipment",
+        "description": "This module covers the core personal protective equipment (PPE) required for all J&H land service sites, including head, eye, face, foot, and hearing protection standard operating procedures in line with OSHA and ANSI guidelines.",
+        "order": 1,
+        "readings": "J&H Field Safety SOP Section 1: Personal Protective Equipment (PPE); OSHA 29 CFR 1910 Subpart I; ANSI/ISEA Z87.1 (Eye & Face) & Z89.1 (Industrial Head Protection).",
+        "videos": "",
+        "sops": "SOP-PPE-01",
+        "assignments": "PPE Inspection and Fit Drill: Select, inspect, and demonstrate the correct donning of a hard hat, safety glasses, face shield, hearing protection, high-visibility vest, and steel-toed boots. Identify any defects or wear.",
+        "quizId": "assess_mod_field_safety_1",
+        "checklist": [
+          "Verifies hard hat has no cracks, dents, or visual UV deterioration.",
+          "Verifies safety glasses and face shields are unscratched and securely mounted.",
+          "Selects appropriate class-rated high-visibility vest for daylight and twilight work.",
+          "Demonstrates correct insertion of earplugs or secure fit of ear muffs.",
+          "Confirms steel-toed boots are clean, fully laced, and have intact protective caps."
+        ],
+        "instructorNotes": "Ensure the trainee understands why each item is required and can explain the ANSI ratings on their safety glasses and hard hat. Do not sign off unless boots are fully laced."
+      },
+      {
+        "id": "mod_field_safety_2",
+        "title": "Equipment Inspections & Communication",
+        "description": "This module covers daily walk-around pre-start inspections for skid steers and compact track loaders, and standard visual and radio communications on site.",
+        "order": 2,
+        "readings": "J&H Field Safety SOP Section 2 (Equipment Pre-Start Inspections) & Section 3 (Communication on Site); J&H Daily Equipment Inspection Checklist; Compact Track Loader Manufacturer Operation Manual.",
+        "videos": "",
+        "sops": "SOP-EQ-01, SOP-COMM-01",
+        "assignments": "Daily Inspection Drill: Demonstrate a full daily walk-around pre-start inspection on an active compact track loader using the J&H checklist. Check all fluid levels, track tension, lights, and backup alarms. Demonstrate the 4 primary hand signals to the supervisor.",
+        "quizId": "assess_mod_field_safety_2",
+        "checklist": [
+          "Checks engine oil, hydraulic fluid, and coolant levels correctly.",
+          "Measures track tension and checks for cuts, tears, or excessive wear.",
+          "Verifies headlights, tail lights, and backup alarms are functioning.",
+          "Demonstrates hand signals for Stop, Move Forward, Move Backward, and Raise/Lower Attachment.",
+          "Locates ROPS, seat belt, and charged fire extinguisher on the machine."
+        ],
+        "instructorNotes": "Check track tension personally (approx. 1 inch of sag). Ensure trainee tests back-up alarm and horn before operating."
+      },
+      {
+        "id": "mod_field_safety_3",
+        "title": "Emergency Procedures & Hazards",
+        "description": "This module teaches how to locate emergency equipment, report incidents, and identify/mitigate environmental hazards, including utility lines, lightning, and steep slopes.",
+        "order": 3,
+        "readings": "J&H Field Safety SOP Section 4 (Emergency Procedures) & Section 5 (Environmental Hazards); OSHA Hazard Communication Standards; Call 811 Excavation Best Practices.",
+        "videos": "",
+        "sops": "SOP-EM-01, SOP-HAZ-01",
+        "assignments": "Emergency Preparedness Walk: Locate all fire extinguishers and first aid kits in the crew truck and equipment. Explain 811 utility marking flags. Demonstrate slope operation safety and identify overhead power line clearance distances.",
+        "quizId": "assess_mod_field_safety_3",
+        "checklist": [
+          "Locates and checks charge status of fire extinguishers in the crew truck and on the skid steer.",
+          "Locates first aid kit and describes correct procedures for calling 911 and notifying owner.",
+          "Explains the process and timeline required for calling 811 (minimum 48 hours before digging).",
+          "Identifies high-voltage clearance requirements and marks overhead lines.",
+          "Demonstrates safe uphill/downhill heavy equipment alignment on sloped terrain."
+        ],
+        "instructorNotes": "Ensure trainee is aware of the exact location of the safety kits on all company vehicles. Ask what 'upwind meeting point' means."
+      }
+    ],
+    "certificationRules": {
+      "quizzesThreshold": 80,
+      "practicalHours": 40,
+      "instructorSignOffRequired": true,
+      "details": "Trainees must pass all module quizzes with at least 80% and successfully complete an instructor-supervised site walk demonstrating correct PPE usage, a pre-start inspection, and safe site hazard navigation."
+    }
+  }
+]

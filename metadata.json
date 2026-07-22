@@ -1,0 +1,8 @@
+{
+  "name": "Remix: J\u0026H Premium Land Portal",
+  "description": "J&H LLC enterprise platform featuring J&H Land Services and the B2B Training Programs commercial learning management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
